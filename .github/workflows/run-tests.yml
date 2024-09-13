@@ -6,7 +6,7 @@ on:
       - sonib101
   pull_request:
     branches:
-      - main
+      - session101
 
 jobs:
   test:
